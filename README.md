@@ -25,7 +25,7 @@ A simple, open-source Discord bot template for any Virtual Trucking Company (VTC
    - Add user IDs who should have special/staff access to restricted commands
 5. **Start the bot:**
    ```bash
-   npm start
+   node index.js
    ```
 
 ## File Explanations

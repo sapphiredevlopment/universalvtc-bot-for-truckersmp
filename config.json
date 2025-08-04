@@ -1,0 +1,17 @@
+{
+  "branding": "Universal VTC Bot by Sapphire Development",
+  "generalChannelId": "YOUR_GENERAL_CHANNEL_ID",
+  "rulesChannelId": "YOUR_RULES_CHANNEL_ID",
+  "eventsChannelId": "YOUR_EVENTS_CHANNEL_ID",
+  "ticketsChannelId": "YOUR_TICKETS_CHANNEL_ID",
+  "eventPingRoles": [
+    "ROLE_ID_1",
+    "ROLE_ID_2"
+  ],
+  "ticketCategories": {
+    "support": "SUPPORT_CATEGORY_ID",
+    "events": "EVENTS_CATEGORY_ID",
+    "join": "JOIN_CATEGORY_ID"
+  },
+  "statusMessage": "A Sapphire Development Project"
+}

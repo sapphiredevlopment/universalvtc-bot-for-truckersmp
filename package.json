@@ -1,0 +1,17 @@
+{
+  "name": "hglogisticsbot",
+  "version": "1.0.0",
+  "description": "HG Logistics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Exarton",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2"
+  }
+}
